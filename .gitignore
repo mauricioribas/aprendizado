@@ -2,3 +2,4 @@ me_ignore.txt
 ignorar/
 *.py
 !pyt03.py
+!aula2.py
