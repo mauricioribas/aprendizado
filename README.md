@@ -1,0 +1,2 @@
+# aprendizado
+diretorio de aprendizado
